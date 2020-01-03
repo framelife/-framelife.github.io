@@ -9,6 +9,7 @@ When Charlie successfully passes a fire circle, one score will be counted and th
 
 # How to Run & Use
 
+The game is hosting on framelife.github.io
 This game has three buttons for controls:
 C: to change the lane 
 G: to Start/Restart game
