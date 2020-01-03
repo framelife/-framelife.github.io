@@ -76,7 +76,7 @@ class Assignment_Three_Scene extends Scene_Component
         this.totalScore =0;
         this.score_o =-1;
         this.timeplay=0;
-        this.sounds = {run:new Audio('assets/BGM.mp3'),
+        this.sounds = {run:new Audio('assets/bgm.mp3'),
                        fail:new Audio('assets/failure.mp3'),
                        jump:new Audio('assets/jump.mp3'),
                        score:new Audio('assets/score.mp3')};
